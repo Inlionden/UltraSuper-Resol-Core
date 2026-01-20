@@ -14,3 +14,5 @@ Please refer to the [official website](https://data.vision.ee.ethz.ch/cvl/DIV2K/
 The notebook is configured to run on Kaggle. To run locally:
 1.  Download the dataset from Kaggle or the official site.
 2.  Update the `DATA_DIR_HR` paths in the notebook to point to your local data directory.
+
+# auto-commit
