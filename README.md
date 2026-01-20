@@ -115,3 +115,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 * This project is an implementation based on the original paper: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802) by Christian Ledig, et al.
 * The [DIV2K Dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) used for training and evaluation.
+
+# auto-commit
